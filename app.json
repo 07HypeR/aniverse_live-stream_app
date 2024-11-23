@@ -15,7 +15,8 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/images/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.stoic07.aniverse"
     },
     "web": {
       "bundler": "metro",
@@ -24,6 +25,8 @@
     },
     "plugins": [
       "expo-router",
+      "react-native-edge-to-edge",
+
       [
         "expo-splash-screen",
         {
