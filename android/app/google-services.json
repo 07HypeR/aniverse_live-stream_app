@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "53073678889",
+    "project_id": "aniverse-960fb",
+    "storage_bucket": "aniverse-960fb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:53073678889:android:3f2f1471c31b60810a0238",
+        "android_client_info": {
+          "package_name": "com.stoic07.aniverse"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuvZF0CZxVjwTg2e3wbYhXzo4CFKmmpSA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
